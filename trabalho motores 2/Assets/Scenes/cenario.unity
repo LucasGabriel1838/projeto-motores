@@ -24092,8 +24092,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 229b6e69837535340b3ca3c7ad74e922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _alvo1: {fileID: 944215162}
-  _alvo2: {fileID: 670011827}
+  _alvo1: {fileID: 670011827}
+  _alvo2: {fileID: 944215162}
   interpolacao: 12
   _spriteRenderrer: {fileID: 0}
   CamMoveSpeed: 5
